@@ -1,12 +1,12 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xuxing409&show_icons=true&theme=radical" />
 
 ### Hi there 👋 I'm XuXing <sup>or Kevin</sup>
 * 一个热爱编程的小前端
 * 最近在搞React
 * 热衷写出优雅的代码
-<div style="display: flex;flex-direction: column;" >
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xuxing409&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuxing409&show_icons=true&theme=radical" />
-</div>
+
+
+
 <!--
 **xuxing409/XuXing409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
