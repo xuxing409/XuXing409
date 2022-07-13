@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xuxing409&show_icons=true&theme=radical" />
 
-### Hi there 👋 I'm XuXing <sup>or Kevin</sup>
+### Hi there 👋 I'm XuXing
 * 一个热爱编程的小前端
 * 最近在搞React
 * 热衷写出优雅的代码
