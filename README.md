@@ -1,9 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xuxing409&show_icons=true&theme=radical" />
 
 ### Hi there 👋 I'm XuXing
-* 一个热爱编程的小前端
-* 最近在搞React
-* 热衷写出优雅的代码
+* A front-end programmer who loves programming
+* Recently studied react frameworks
+* Passionate about writing elegant code
 
 
 
