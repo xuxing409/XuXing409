@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xuxing409&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xuxing409&show_icons=true&theme=radical&count_private=true" />
 
 ### Hi there 👋 I'm XuXing
 * A front-end programmer who loves programming
