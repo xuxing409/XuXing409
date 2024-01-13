@@ -2,7 +2,6 @@
 
 ### Hi there 👋 I'm XuXing
 * A front-end programmer who loves programming
-* Recently studied react frameworks
 * Passionate about writing elegant code
 
 
